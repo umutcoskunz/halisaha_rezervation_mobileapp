@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1762266744277,
+    "name": "Umut Coskun",
+    "username": "hawkingcoskunlan",
+    "email": "u@gmail.com",
+    "password": "umut",
+    "phone": "05387033351",
+    "city": "İstanbul"
+  },
+  {
+    "id": 1762990039065,
+    "name": "umut",
+    "username": "coskun",
+    "email": "coskun@gmail.com",
+    "password": "umut",
+    "phone": "5387033351",
+    "city": "Artvin"
+  },
+  {
+    "id": 1762990913604,
+    "name": "a",
+    "username": "b",
+    "email": "c@gmail.com",
+    "password": "abc",
+    "phone": "05373544064",
+    "city": "Bayburt"
+  }
+]

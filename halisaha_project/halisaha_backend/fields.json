@@ -1,0 +1,524 @@
+[
+  {
+    "id": 1,
+    "name": "Seka Futbol Tesisleri",
+    "location": "Kocaeli",
+    "price": 3000,
+    "capacity": "8 + 1",
+    "image": "seka.jpeg",
+    "availability": {
+      "Pazartesi": {
+        "18:00": true,
+        "19:00": false,
+        "20:00": true,
+        "21:00": true,
+        "22:00": false,
+        "23:00": true,
+        "00:00": true,
+        "01:00": false,
+        "02:00": true
+      },
+      "Salı": {
+        "18:00": true,
+        "19:00": false,
+        "20:00": false,
+        "21:00": true,
+        "22:00": true,
+        "23:00": false,
+        "00:00": true,
+        "01:00": true,
+        "02:00": false
+      },
+      "Çarşamba": {
+        "18:00": false,
+        "19:00": true,
+        "20:00": true,
+        "21:00": false,
+        "22:00": true,
+        "23:00": true,
+        "00:00": true,
+        "01:00": false,
+        "02:00": true
+      },
+      "Perşembe": {
+        "18:00": true,
+        "19:00": true,
+        "20:00": true,
+        "21:00": true,
+        "22:00": true,
+        "23:00": false,
+        "00:00": true,
+        "01:00": true,
+        "02:00": true
+      },
+      "Cuma": {
+        "18:00": false,
+        "19:00": false,
+        "20:00": false,
+        "21:00": true,
+        "22:00": false,
+        "23:00": true,
+        "00:00": false,
+        "01:00": true,
+        "02:00": true
+      },
+      "Cumartesi": {
+        "18:00": true,
+        "19:00": false,
+        "20:00": true,
+        "21:00": true,
+        "22:00": true,
+        "23:00": false,
+        "00:00": false,
+        "01:00": true,
+        "02:00": true
+      },
+      "Pazar": {
+        "18:00": true,
+        "19:00": true,
+        "20:00": true,
+        "21:00": false,
+        "22:00": true,
+        "23:00": true,
+        "00:00": true,
+        "01:00": false,
+        "02:00": false
+      }
+    }
+  },
+  {
+    "id": 2,
+    "name": "Tepebaşı Spor Tesisleri",
+    "location": "Eskişehir",
+    "price": 2500,
+    "capacity": "7 + 1",
+    "image": "tepebasi.jpeg",
+    "availability": {
+      "Pazartesi": {
+        "18:00": true,
+        "19:00": true,
+        "20:00": false,
+        "21:00": false,
+        "22:00": true,
+        "23:00": false,
+        "00:00": true,
+        "01:00": true,
+        "02:00": true
+      },
+      "Salı": {
+        "18:00": true,
+        "19:00": false,
+        "20:00": true,
+        "21:00": true,
+        "22:00": false,
+        "23:00": true,
+        "00:00": true,
+        "01:00": false,
+        "02:00": true
+      },
+      "Çarşamba": {
+        "18:00": false,
+        "19:00": false,
+        "20:00": true,
+        "21:00": true,
+        "22:00": true,
+        "23:00": false,
+        "00:00": true,
+        "01:00": true,
+        "02:00": false
+      },
+      "Perşembe": {
+        "18:00": true,
+        "19:00": true,
+        "20:00": true,
+        "21:00": false,
+        "22:00": false,
+        "23:00": true,
+        "00:00": false,
+        "01:00": true,
+        "02:00": true
+      },
+      "Cuma": {
+        "18:00": false,
+        "19:00": true,
+        "20:00": false,
+        "21:00": true,
+        "22:00": true,
+        "23:00": false,
+        "00:00": true,
+        "01:00": false,
+        "02:00": true
+      },
+      "Cumartesi": {
+        "18:00": false,
+        "19:00": true,
+        "20:00": false,
+        "21:00": false,
+        "22:00": true,
+        "23:00": true,
+        "00:00": false,
+        "01:00": true,
+        "02:00": true
+      },
+      "Pazar": {
+        "18:00": true,
+        "19:00": true,
+        "20:00": true,
+        "21:00": true,
+        "22:00": false,
+        "23:00": false,
+        "00:00": true,
+        "01:00": true,
+        "02:00": false
+      }
+    }
+  },
+  {
+    "id": 3,
+    "name": "Şişli Field",
+    "location": "İstanbul",
+    "price": 4200,
+    "capacity": "10 + 1",
+    "image": "sislivip.jpg",
+    "availability": {
+      "Pazartesi": {
+        "18:00": false,
+        "19:00": false,
+        "20:00": true,
+        "21:00": true,
+        "22:00": true,
+        "23:00": false,
+        "00:00": true,
+        "01:00": false,
+        "02:00": true
+      },
+      "Salı": {
+        "18:00": true,
+        "19:00": true,
+        "20:00": false,
+        "21:00": true,
+        "22:00": true,
+        "23:00": true,
+        "00:00": false,
+        "01:00": true,
+        "02:00": true
+      },
+      "Çarşamba": {
+        "18:00": true,
+        "19:00": false,
+        "20:00": true,
+        "21:00": false,
+        "22:00": true,
+        "23:00": false,
+        "00:00": true,
+        "01:00": true,
+        "02:00": false
+      },
+      "Perşembe": {
+        "18:00": false,
+        "19:00": true,
+        "20:00": true,
+        "21:00": true,
+        "22:00": true,
+        "23:00": false,
+        "00:00": true,
+        "01:00": true,
+        "02:00": true
+      },
+      "Cuma": {
+        "18:00": true,
+        "19:00": false,
+        "20:00": false,
+        "21:00": true,
+        "22:00": true,
+        "23:00": true,
+        "00:00": false,
+        "01:00": true,
+        "02:00": false
+      },
+      "Cumartesi": {
+        "18:00": false,
+        "19:00": true,
+        "20:00": true,
+        "21:00": true,
+        "22:00": false,
+        "23:00": true,
+        "00:00": true,
+        "01:00": true,
+        "02:00": true
+      },
+      "Pazar": {
+        "18:00": true,
+        "19:00": true,
+        "20:00": false,
+        "21:00": true,
+        "22:00": true,
+        "23:00": true,
+        "00:00": true,
+        "01:00": false,
+        "02:00": true
+      }
+    }
+  },
+  {
+    "id": 4,
+    "name": "Karapürçek Halısaha",
+    "location": "Ankara",
+    "price": 2200,
+    "capacity": "7 + 1",
+    "image": "karapurcek.jpg",
+    "availability": {
+      "Pazartesi": {
+        "18:00": true,
+        "19:00": true,
+        "20:00": true,
+        "21:00": false,
+        "22:00": true,
+        "23:00": true,
+        "00:00": true,
+        "01:00": false,
+        "02:00": true
+      },
+      "Salı": {
+        "18:00": true,
+        "19:00": false,
+        "20:00": false,
+        "21:00": true,
+        "22:00": true,
+        "23:00": true,
+        "00:00": false,
+        "01:00": true,
+        "02:00": true
+      },
+      "Çarşamba": {
+        "18:00": true,
+        "19:00": true,
+        "20:00": true,
+        "21:00": false,
+        "22:00": false,
+        "23:00": true,
+        "00:00": true,
+        "01:00": true,
+        "02:00": false
+      },
+      "Perşembe": {
+        "18:00": false,
+        "19:00": true,
+        "20:00": true,
+        "21:00": true,
+        "22:00": true,
+        "23:00": true,
+        "00:00": true,
+        "01:00": false,
+        "02:00": true
+      },
+      "Cuma": {
+        "18:00": false,
+        "19:00": true,
+        "20:00": true,
+        "21:00": false,
+        "22:00": true,
+        "23:00": false,
+        "00:00": true,
+        "01:00": true,
+        "02:00": true
+      },
+      "Cumartesi": {
+        "18:00": true,
+        "19:00": false,
+        "20:00": true,
+        "21:00": true,
+        "22:00": false,
+        "23:00": true,
+        "00:00": false,
+        "01:00": true,
+        "02:00": true
+      },
+      "Pazar": {
+        "18:00": true,
+        "19:00": false,
+        "20:00": true,
+        "21:00": true,
+        "22:00": true,
+        "23:00": true,
+        "00:00": true,
+        "01:00": true,
+        "02:00": true
+      }
+    }
+  },
+  {
+    "id": 5,
+    "name": "Akev Halısaha",
+    "location": "Antalya",
+    "price": 3200,
+    "capacity": "8 + 1",
+    "image": "akev.jpeg",
+    "availability": {
+      "Pazartesi": {
+        "18:00": true,
+        "19:00": true,
+        "20:00": false,
+        "21:00": true,
+        "22:00": true,
+        "23:00": true,
+        "00:00": false,
+        "01:00": true,
+        "02:00": true
+      },
+      "Salı": {
+        "18:00": false,
+        "19:00": false,
+        "20:00": true,
+        "21:00": false,
+        "22:00": true,
+        "23:00": true,
+        "00:00": true,
+        "01:00": true,
+        "02:00": false
+      },
+      "Çarşamba": {
+        "18:00": true,
+        "19:00": true,
+        "20:00": true,
+        "21:00": true,
+        "22:00": false,
+        "23:00": false,
+        "00:00": true,
+        "01:00": true,
+        "02:00": true
+      },
+      "Perşembe": {
+        "18:00": true,
+        "19:00": true,
+        "20:00": true,
+        "21:00": false,
+        "22:00": true,
+        "23:00": false,
+        "00:00": true,
+        "01:00": true,
+        "02:00": true
+      },
+      "Cuma": {
+        "18:00": false,
+        "19:00": true,
+        "20:00": true,
+        "21:00": false,
+        "22:00": true,
+        "23:00": true,
+        "00:00": true,
+        "01:00": false,
+        "02:00": true
+      },
+      "Cumartesi": {
+        "18:00": true,
+        "19:00": false,
+        "20:00": true,
+        "21:00": true,
+        "22:00": false,
+        "23:00": true,
+        "00:00": true,
+        "01:00": true,
+        "02:00": true
+      },
+      "Pazar": {
+        "18:00": true,
+        "19:00": false,
+        "20:00": false,
+        "21:00": true,
+        "22:00": true,
+        "23:00": false,
+        "00:00": true,
+        "01:00": true,
+        "02:00": true
+      }
+    }
+  },
+  {
+    "id": 6,
+    "name": "ItasportX Halısaha",
+    "location": "Kocaeli",
+    "price": 3200,
+    "capacity": "7 + 1",
+    "image": "itasportx.jpg",
+    "availability": {
+      "Pazartesi": {
+        "18:00": false,
+        "19:00": true,
+        "20:00": true,
+        "21:00": false,
+        "22:00": true,
+        "23:00": true,
+        "00:00": true,
+        "01:00": true,
+        "02:00": false
+      },
+      "Salı": {
+        "18:00": true,
+        "19:00": true,
+        "20:00": false,
+        "21:00": false,
+        "22:00": true,
+        "23:00": true,
+        "00:00": false,
+        "01:00": true,
+        "02:00": true
+      },
+      "Çarşamba": {
+        "18:00": true,
+        "19:00": false,
+        "20:00": true,
+        "21:00": false,
+        "22:00": true,
+        "23:00": true,
+        "00:00": true,
+        "01:00": false,
+        "02:00": true
+      },
+      "Perşembe": {
+        "18:00": true,
+        "19:00": true,
+        "20:00": true,
+        "21:00": false,
+        "22:00": false,
+        "23:00": true,
+        "00:00": true,
+        "01:00": true,
+        "02:00": true
+      },
+      "Cuma": {
+        "18:00": false,
+        "19:00": true,
+        "20:00": false,
+        "21:00": true,
+        "22:00": false,
+        "23:00": false,
+        "00:00": true,
+        "01:00": true,
+        "02:00": true
+      },
+      "Cumartesi": {
+        "18:00": true,
+        "19:00": true,
+        "20:00": true,
+        "21:00": false,
+        "22:00": false,
+        "23:00": true,
+        "00:00": false,
+        "01:00": true,
+        "02:00": true
+      },
+      "Pazar": {
+        "18:00": true,
+        "19:00": false,
+        "20:00": true,
+        "21:00": false,
+        "22:00": true,
+        "23:00": true,
+        "00:00": true,
+        "01:00": true,
+        "02:00": false
+      }
+    }
+  }
+]
